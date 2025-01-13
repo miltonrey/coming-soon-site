@@ -63,7 +63,7 @@ Para trabajar en el proyecto:
    - `index.html` - Estructura principal
    - `css/styles.css` - Estilos principales
    - `css/responsive.css` - Estilos responsivos
-   - `src/countdown.js` - Lógica de la cuenta regresiva
+   - `src/js/countdown.js` - Lógica de la cuenta regresiva
 
 ## Construcción para Producción
 
@@ -77,7 +77,7 @@ Los archivos de producción se generarán en el directorio `dist/`.
 
 ## Personalización
 
-- La fecha objetivo se puede modificar en `src/countdown.js`
+- La fecha objetivo se puede modificar en `src/js/countdown.js`
 - Los colores principales se pueden ajustar en las variables CSS en `css/styles.css`
 - Los breakpoints responsivos se pueden modificar en `css/responsive.css`
 
