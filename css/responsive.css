@@ -1,0 +1,67 @@
+/* Tablet (768px and down) */
+@media screen and (max-width: 768px) {
+    .title {
+        font-size: 2.5rem;
+    }
+
+    .message {
+        font-size: 1rem;
+    }
+
+    .countdown {
+        gap: 1rem;
+    }
+
+    .time-block {
+        padding: 0.8rem 1.5rem;
+    }
+
+    .number {
+        font-size: 2rem;
+    }
+
+    .glowing-circle {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+/* Mobile (480px and down) */
+@media screen and (max-width: 480px) {
+    .container {
+        padding: 1rem;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .countdown {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .time-block {
+        flex-direction: row;
+        justify-content: center;
+        gap: 0.5rem;
+        padding: 0.5rem 1rem;
+    }
+
+    .number {
+        font-size: 1.5rem;
+    }
+
+    .label {
+        font-size: 0.8rem;
+    }
+
+    .glowing-circle {
+        width: 200px;
+        height: 200px;
+    }
+
+    .progress-bar {
+        width: 90%;
+    }
+}
