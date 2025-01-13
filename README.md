@@ -25,7 +25,8 @@ proyecto/
 │   ├── styles.css
 │   └── responsive.css
 ├── src/
-│   └── countdown.js
+│   └── js
+│        └── countdown.js
 ├── index.html
 ├── package.json
 └── README.md
