@@ -39,13 +39,13 @@ proyecto/
 1. Clona el repositorio:
 
 ```bash
-git clone [URL-del-repositorio]
+git clone https://github.com/miltonrey/coming-soon-site.git
 ```
 
 2. Navega al directorio del proyecto:
 
 ```bash
-cd [nombre-del-proyecto]
+cd "nombre proyecto"
 ```
 
 3. Instala las dependencias:
