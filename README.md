@@ -1,6 +1,6 @@
 # Página de Construcción Futurista
 
-Una página de "Sitio en Construcción" moderna y futurista con cuenta regresiva hasta el 24 de enero de 2025. El diseño es totalmente responsivo y cuenta con animaciones suaves y efectos visuales atractivos.
+Una página de "Sitio en Construcción" moderna y futurista con cuenta regresiva hasta fecha objetivo (modificable). El diseño es totalmente responsivo y cuenta con animaciones suaves y efectos visuales atractivos.
 
 ![Vista previa del sitio](public/preview.png)
 
