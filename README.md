@@ -2,6 +2,8 @@
 
 Una página de "Sitio en Construcción" moderna y futurista con cuenta regresiva hasta el 24 de enero de 2025. El diseño es totalmente responsivo y cuenta con animaciones suaves y efectos visuales atractivos.
 
+![Vista previa del sitio](public/preview.png)
+
 ## Características
 
 - ⏳ Cuenta regresiva dinámica hasta la fecha de lanzamiento
@@ -34,21 +36,25 @@ proyecto/
 ## Instalación
 
 1. Clona el repositorio:
+
 ```bash
 git clone [URL-del-repositorio]
 ```
 
 2. Navega al directorio del proyecto:
+
 ```bash
 cd [nombre-del-proyecto]
 ```
 
 3. Instala las dependencias:
+
 ```bash
 npm install
 ```
 
 4. Inicia el servidor de desarrollo:
+
 ```bash
 npm run dev
 ```
